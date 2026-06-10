@@ -18,5 +18,5 @@
 
 ### 📫 Как со мной связаться
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/barak_brat)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:tree.bree@mail.ru)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raf120515@gmail.com)
+[![Email](https://custom-icon-badges.demolab.com/badge/Email-1A73E8?style=for-the-badge&logo=mail&logoColor=white)](mailto:tree.bree@mail.ru)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:кфа120515@mail.ru)
