@@ -31,10 +31,6 @@
 - 🏗️ Тестирование микросервисной архитектуры и high-load систем
 - 🐛 Локализация и документирование дефектов
 
-### 📈 Моя статистика
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ТВОЙ_USERNAME&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_USERNAME&layout=compact&theme=dark)
-
 ### 📫 Как со мной связаться
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/barak_brat)
 [![Email](https://custom-icon-badges.demolab.com/badge/Email-1A73E8?style=for-the-badge&logo=mail&logoColor=white)](mailto:tree.bree@mail.ru)
