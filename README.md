@@ -16,14 +16,13 @@
   <img width="7%" title="Allure TestOps" src="media/testOps.svg">
   <img width="7%" title="GitHub" src="media/github.svg">
   <img width="7%" title="Jira" src="media/jira.svg">
-  <img width="7%" title="Telegram" src="media/telegram.svg">
   <img width="7%" title="Selenium" src="media/selenium.svg">
   <img width="7%" title="PostgreSQL" src="media/postgresql.svg">
   <img width="7%" title="Apache Kafka" src="media/kafka.svg">
   <img width="7%" title="Docker" src="media/docker.svg">
   <img width="7%" title="Postman" src="media/postman.svg">
   <img width="7%" title="Swagger" src="media/swagger.svg">
-  <img width="7%" title="Rest Assured" src="media/rest-assured.svg">
+  <img width="7%" title="Telegram" src="media/telegram.svg">
 </p>
 
 ### 🎯 Чем я занимаюсь
