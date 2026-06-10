@@ -1,4 +1,4 @@
-## Hi there 👋
+## Привет 👋
 
 **Fullstack / Automation QA (Java)**.
 
