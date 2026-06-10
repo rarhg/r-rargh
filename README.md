@@ -36,14 +36,8 @@
 
 ### 📫 Как со мной связаться
 
-<p align="center">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=raf120515@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://e.mail.ru/inbox/?to=tree.bree@mail.ru" target="_blank">
-    <img src="https://custom-icon-badges.demolab.com/badge/Email-1A73E8?style=for-the-badge&logo=mail&logoColor=white" alt="Email (Mail.ru)">
-  </a>
-  <a href="https://t.me/barak_brat" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
-</p>
+### Мои контакты:
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=raf120515@gmail.com)
+[![Email](https://custom-icon-badges.demolab.com/badge/Email-1A73E8?style=for-the-badge&logo=mail&logoColor=white)](https://e.mail.ru/inbox/?to=tree.bree@mail.ru)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/r_rargh)
