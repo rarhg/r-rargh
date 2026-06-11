@@ -2,7 +2,7 @@
 
 **Fullstack / Automation QA (Java)**.
 
-## 🧰 Tech Stack
+## 🧰 Технологический стек
 
 <p align="center">
   <img width="7%" title="Java" src="media/java.svg">
